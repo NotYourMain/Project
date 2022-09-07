@@ -1,2 +1,2 @@
 # Project
-Final Year Group project
+Group Project to build a compiler 
